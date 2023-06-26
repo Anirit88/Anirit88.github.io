@@ -1,4 +1,4 @@
-# Topic Title
+# Big Data
 ![big data]([https://www.bigdataframework.org/why-the-interest-in-big-data/#iLightbox[gallery13165]/0](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRhiSj1lYU9Xi9Dke3z1kQAFwloCEgIHkxA&usqp=CAU))
 
 Big Data Development is a field that focuses on the management and analysis of large and complex datasets. It involves the use of various tools, technologies, and techniques to extract meaningful insights from massive volumes of data. This wiki page provides an overview of Big Data Development and its importance in today's data-driven world.
@@ -33,5 +33,5 @@ Big Data Development offers numerous benefits across various industries. It enab
 
 ## References
 1. “Big Data Analytics: What It Is, How It Works, Benefits, and Challenges.” Tableau, www.tableau.com/learn/articles/big-data-analytics. Accessed 25 June 2023. 
-2. Reference 2
-3. Reference 3
+2. “Big Data: What It Is and Why It Matters.” SAS, www.sas.com/en_us/insights/big-data/what-is-big-data.html. Accessed 25 June 2023. 
+3. “10 Ways Big Data Is Changing Business.” Business.Com, www.business.com/articles/reinventing-business-intelligence-ways-big-data-is-changing-business/. Accessed 25 June 2023. 
