@@ -1,5 +1,5 @@
 # Big Data
-![big data](Screen Shot 2023-06-25 at 11.40.21 PM.png)
+![big data](picture.png)
 
 Big Data Development is a field that focuses on the management and analysis of large and complex datasets. It involves the use of various tools, technologies, and techniques to extract meaningful insights from massive volumes of data. This wiki page provides an overview of Big Data Development and its importance in today's data-driven world.
 
